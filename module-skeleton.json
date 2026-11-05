@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-tracking-filament",
+  "capabilityKey": "planned:ecommerce:order-tracking",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-order-tracking-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-tracking.md",
+  "presentationPlan": "projects/ecommerce/filament/order-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
